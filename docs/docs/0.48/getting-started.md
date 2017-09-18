@@ -567,7 +567,7 @@ choco install git
 
 点击这里阅读[Nuclide的入门文档](http://nuclide.io/docs/quick-start/getting-started/)。
 
-译注：我们更推荐使用[WebStorm](https://www.jetbrains.com/webstorm/)或[Sublime Text](http://www.sublimetext.com/)来编写React Native应用。
+译注：我们更推荐使用[WebStorm](https://www.jetbrains.com/webstorm/)或[Sublime Text](http://www.sublimetext.com/)来编写React Native应用。 
 
 </div><div markdown class="md-block linux windows android">
 
